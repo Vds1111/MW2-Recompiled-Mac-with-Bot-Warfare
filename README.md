@@ -23,6 +23,11 @@ Added support for third party controllers like PowerA
 ```bash
 ./build-mac-app.sh /path/to/MW2.iso /path/to/TU_10LC20N_file 
 ```
+## (Managing settings)
+For Bot Warfare: Press DPad down, pretty easy. To manage other change like changing fps, anti-aliasing, etc, press RB+START. The Bot settings in the RB+START Menu will not work so don't be bothered to use it, use Bot Warfare instead ;)
+
+## Why?
+Because the Bots only did basic stuffs, like moving, ads, crouch. They couldn't use killstreaks or grenades or special grenades. For that, I had to add Bot Warfare to it (Thanks to Claude Ai). 
 
 ## Credits
 * **GSC Loader & TU6 Hooks:** Ported from `kyokokxdev/mw2nx` (`mw2mp_gsc.cpp`).
