@@ -1,4 +1,4 @@
-# MW2 Mac Recomp — Bot Warfare 2.4.0
+# MW2 Macbook Recomp — Bot Warfare 2.4.0
 
 MULTIPLAYER AND CONTROLLER ONLY!!!
 ## YOU MUST FIRST INSTALL HOMEBREW AND MOLTENVK
