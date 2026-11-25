@@ -13,6 +13,9 @@ Added support for third party controllers like PowerA
 2. **Base Game:** Your Xbox 360 **Modern Warfare 2** `.iso` (or unpacked disc folder containing `default_mp.xex`).
 3. **Title Update 6:** Your Xbox 360 TU6 file (`TU_10LC20N_...`).
 
+## If macOS blocks MW2 Bot Warfare Builder.app:
+Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.app" in Terminal.
+
 ## Easy GUI Build (Recommended)
 1. Double-click **`MW2 Bot Warfare Builder.app`**.
 2. **Step 1:** Choose your MW2 `.iso` file or unpacked disc folder.
