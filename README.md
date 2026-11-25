@@ -47,7 +47,7 @@ For Bot Warfare: Press DPad down, pretty easy. To manage other change like chang
 ## Tip: Keep the FPS cap at 60 FPS (default) for maximum stability — 90/120 FPS can cause GPU ring-buffer crashes during heavy or long sessions.
 
 ## Why add Bot Warfare?
-The Bots in settings RB+START only do basic stuffs, like moving, ads, crouch. They could not do killstreaks or throw grenades or special grenades. On Domination and Headquarter, they would not grab the flags. So for that, I had to add Bot Warfare to it (Thanks to Claude Ai). 
+The Bots in settings RB+START only do basic stuffs, like moving, ads, crouch. They could not do killstreaks or throw grenades or special grenades. On Domination and Headquarter, they would not grab or defend the flags. So for that, I had to add Bot Warfare to it (Thanks to Claude Ai). 
 
 ## Credits
 * **GSC Loader & TU6 Hooks:** Ported from `kyokokxdev/mw2nx` (`mw2mp_gsc.cpp`).
