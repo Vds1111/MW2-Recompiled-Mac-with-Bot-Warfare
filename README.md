@@ -23,7 +23,7 @@ Added support for third party controllers like PowerA
 ```bash
 ./build-mac-app.sh /path/to/MW2.iso /path/to/TU_10LC20N_file 
 ```
-## (Managing settings)
+## Managing settings
 For Bot Warfare: Press DPad down, pretty easy. To manage other change like changing fps, anti-aliasing, etc, press RB+START. The Bot settings in the RB+START Menu will not work so don't be bothered to use it, use Bot Warfare instead ;)
 
 ## Why?
