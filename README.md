@@ -5,6 +5,8 @@ Added support for third party controllers like PowerA
 
 MULTIPLAYER AND CONTROLLER ONLY!!!
 
+## Status: Beta — Expect occasional bugs. Core multiplayer, Bot Warfare 2.4.0, and controller support are fully playable on Apple Silicon Macs, but occasional visual or stability quirks may still occur.
+
 ## You must first install Homebrew and MoltenVK
 ```bash
 brew install cmake ninja molten-vk
@@ -15,14 +17,14 @@ brew install cmake ninja molten-vk
 2. **Base Game:** Your Xbox 360 **Modern Warfare 2** `.iso` (or unpacked disc folder containing `default_mp.xex`).
 3. **Title Update 6:** Your Xbox 360 TU6 file (`TU_10LC20N_...`).
 
-## If macOS blocks MW2 Bot Warfare Builder.app:
-Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.app" in Terminal.
-
 ## Easy GUI Build (Recommended)
 
 **Step 0.** EXTRACT **`SRC.ZIP`** BEFORE RUNNING IT.
 
 **Step 1.** Extract **`MW2 Bot Warfare Builder.zip`**, then double-click **`MW2 Bot Warfare Builder.app`**.
+
+If macOS blocks MW2 Bot Warfare Builder.app:
+Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.app" in Terminal.
 
 **Step 2.** Choose your MW2 `.iso` file or unpacked disc folder.
 
@@ -30,20 +32,19 @@ Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.a
 
 **Step 4.** Wait for Terminal to finish building, then double-click **`Modern Warfare 2.app`** on your Desktop and press **D-Pad Down** in a Private Match to open the Bot Warfare menu.
 
-## Loading a map
-Loading a map for the first time can be quite laggy when adding bots, to fix this, just restart and it should be back to normal!
-
 ## CLI Build (Alternative)
 ```bash
 ./build-mac-app.sh /path/to/MW2.iso /path/to/TU_10LC20N_file 
 ```
+
+## Loading a map
+Loading a map for the first time can be quite laggy when adding bots, to fix this, just restart and it should be back to normal!
+
 ## Managing settings
 For Bot Warfare: Press DPad down, pretty easy. To manage other change like changing fps, anti-aliasing, etc, press RB+START. The Bot settings in the RB+START Menu will not work so don't be bothered to use it, use Bot Warfare instead ;)
 
-## Why?
+## Why add Bot Warfare?
 The Bots in settings RB+START only do basic stuffs, like moving, ads, crouch. They lacked killstreaks or grenades or special grenades. So for that, I had to add Bot Warfare to it (Thanks to Claude Ai). 
-
-## Status: Beta — Expect occasional bugs. Core multiplayer, Bot Warfare 2.4.0, and controller support are fully playable on Apple Silicon Macs, but occasional visual or stability quirks may still occur.
 
 ## Credits
 * **GSC Loader & TU6 Hooks:** Ported from `kyokokxdev/mw2nx` (`mw2mp_gsc.cpp`).
