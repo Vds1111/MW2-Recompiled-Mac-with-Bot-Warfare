@@ -17,10 +17,10 @@ Added support for third party controllers like PowerA
 Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.app" in Terminal.
 
 ## Easy GUI Build (Recommended)
-1. Double-click **`MW2 Bot Warfare Builder.app`**.
-2. **Step 1:** Choose your MW2 `.iso` file or unpacked disc folder.
-3. **Step 2:** Select your Title Update 6 (`TU_10LC20N_...`) file.
-5. Wait for Terminal to finish building, then double-click **`Modern Warfare 2.app`** on your Desktop and press **D-Pad Down** in a Private Match to open the Bot Warfare menu.
+**Step 1.** Double-click **`MW2 Bot Warfare Builder.app`**.
+**Step 2. Choose your MW2 `.iso` file or unpacked disc folder.
+**Step 3.** Select your Title Update 6 (`TU_10LC20N_...`) file.
+**Step 4.** Wait for Terminal to finish building, then double-click **`Modern Warfare 2.app`** on your Desktop and press **D-Pad Down** in a Private Match to open the Bot Warfare menu.
 
 ## CLI Build (Alternative)
 ```bash
