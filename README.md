@@ -55,4 +55,4 @@ The Bots in settings RB+START only do basic stuffs, like moving, ads, crouch. Th
 * **Base Recompilation:** `vrcnx/mw2-recompiled-ios` (`ios-port` branch, forked from `PaulCombal/mw2-recompiled`).
 
 ## License & Usage
-You are free to use, modify, and share this project as long as you give proper credit to this repository and the original authors listed above (`kyokokxdev/mw2nx`, for the GSC Loader and TU6, the Bot Warfare team, and `vrcnx/mw2-recompiled-ios`, forked from `PaulCombal/mw2-recompiled`).
+You are free to use, modify, and share this project as long as you give proper credit to this repository and me and the original authors listed above (`kyokokxdev/mw2nx`, for the GSC Loader and TU6, the Bot Warfare team, and `vrcnx/mw2-recompiled-ios`, forked from `PaulCombal/mw2-recompiled`).
