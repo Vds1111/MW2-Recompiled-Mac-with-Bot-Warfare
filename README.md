@@ -9,7 +9,7 @@ MULTIPLAYER AND CONTROLLER ONLY!!!
 
 ## You must first install Homebrew and MoltenVK
 ```bash
-brew install cmake ninja molten-vk
+brew install cmake ninja molten-vk vulkan-loader
 ```
 
 ## What You Need
@@ -33,8 +33,8 @@ Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.a
 **Step 4.** Wait for Terminal to finish building, then double-click **`Modern Warfare 2.app`** on your Desktop and press **D-Pad Down** in a Private Match to open the Bot Warfare menu.
 
 ## CLI Build (Alternative)
-```bash
-./build-mac-app.sh /path/to/MW2.iso /path/to/TU_10LC20N_file 
+```
+bash ./build-mac-app.sh /path/to/MW2.iso /path/to/TU_10LC20N_file
 ```
 
 ## Loading a map
