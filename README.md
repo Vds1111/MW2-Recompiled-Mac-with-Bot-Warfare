@@ -17,6 +17,9 @@ Added support for third party controllers like PowerA
 Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.app" in Terminal.
 
 ## Easy GUI Build (Recommended)
+
+**Step 0.** EXTRACT **`SRC.ZIP`** BEFORE RUNNING IT
+
 **Step 1.** Double-click **`MW2 Bot Warfare Builder.app`**.
 
 **Step 2.** Choose your MW2 `.iso` file or unpacked disc folder.
