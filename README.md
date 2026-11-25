@@ -41,9 +41,9 @@ Loading a map for the first time can be quite laggy when adding bots, to fix thi
 For Bot Warfare: Press DPad down, pretty easy. To manage other change like changing fps, anti-aliasing, etc, press RB+START. The Bot settings in the RB+START Menu will not work so don't be bothered to use it, use Bot Warfare instead ;)
 
 ## Why?
-Because the Bots only did basic stuffs, like moving, ads, crouch. They lacked killstreaks or grenades or special grenades. For that, I had to add Bot Warfare to it (Thanks to Claude Ai). 
+The Bots in settings RB+START only do basic stuffs, like moving, ads, crouch. They lacked killstreaks or grenades or special grenades. So for that, I had to add Bot Warfare to it (Thanks to Claude Ai). 
 
-## Status: Beta — Expect occasional bugs. Core multiplayer, Bot Warfare 2.4.0, and controller support are fully playable on Apple Silicon Macs, though occasional visual or stability quirks may still occur.
+## Status: Beta — Expect occasional bugs. Core multiplayer, Bot Warfare 2.4.0, and controller support are fully playable on Apple Silicon Macs, but occasional visual or stability quirks may still occur.
 
 ## Credits
 * **GSC Loader & TU6 Hooks:** Ported from `kyokokxdev/mw2nx` (`mw2mp_gsc.cpp`).
