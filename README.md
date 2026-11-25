@@ -22,7 +22,7 @@ Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.a
 
 **Step 0.** EXTRACT **`SRC.ZIP`** BEFORE RUNNING IT.
 
-**Step 1.** Zip **` MW@ Bot Warfare Builder.zip`**, then double-click **`MW2 Bot Warfare Builder.app`**.
+**Step 1.** Extract **`MW2 Bot Warfare Builder.zip`**, then double-click **`MW2 Bot Warfare Builder.app`**.
 
 **Step 2.** Choose your MW2 `.iso` file or unpacked disc folder.
 
