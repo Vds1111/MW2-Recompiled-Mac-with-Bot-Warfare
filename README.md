@@ -1,4 +1,4 @@
-# MW2 Macbook Recomp — Bot Warfare 2.4.0
+# MW2 Macbook Recomp With Bot Warfare 2.4.0
 
 Builds a standalone macOS `Modern Warfare 2.app` (Title Update 6 Multiplayer) with **Bot Warfare 2.4.0** from your own legal Xbox 360 copy. **No copyrighted game files are included.**
 Added support for third party controllers like PowerA
