@@ -20,7 +20,7 @@ brew install cmake ninja molten-vk vulkan-loader
 
 ## Easy GUI Build (Recommended)
 
-**Step 0.** EXTRACT **`src.zip`** BEFORE RUNNING IT.
+**Step 0.** First extract **`src.zip`**.
 
 **Step 1.** Extract **`MW2 Bot Warfare Builder.app.zip`**, then double-click **`MW2 Bot Warfare Builder.app`**.
 
