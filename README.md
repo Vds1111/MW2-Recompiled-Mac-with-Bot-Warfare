@@ -18,7 +18,7 @@ Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.a
 
 ## Easy GUI Build (Recommended)
 **Step 1.** Double-click **`MW2 Bot Warfare Builder.app`**.
-**Step 2. Choose your MW2 `.iso` file or unpacked disc folder.
+**Step 2.** Choose your MW2 `.iso` file or unpacked disc folder.
 **Step 3.** Select your Title Update 6 (`TU_10LC20N_...`) file.
 **Step 4.** Wait for Terminal to finish building, then double-click **`Modern Warfare 2.app`** on your Desktop and press **D-Pad Down** in a Private Match to open the Bot Warfare menu.
 
