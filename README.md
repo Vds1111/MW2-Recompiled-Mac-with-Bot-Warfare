@@ -7,7 +7,7 @@ Added support for third party controllers like PowerA
 
 MULTIPLAYER AND CONTROLLER ONLY!!!
 
-## Status: Beta — Expect occasional bugs. Core multiplayer, Bot Warfare 2.4.0, and controller support are fully playable on Apple Silicon Macs, but occasional visual or stability quirks may still occur.
+## Status: Beta — Expect occasional bugs or crashes. Core multiplayer, Bot Warfare 2.4.0, and controller support are fully playable on Apple Silicon Macs, but occasional visual or stability quirks may still occur.
 
 ## You must first install Homebrew and MoltenVK
 ```bash
