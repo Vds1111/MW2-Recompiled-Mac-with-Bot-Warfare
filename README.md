@@ -5,7 +5,7 @@ Added support for third party controllers like PowerA
 
 MULTIPLAYER AND CONTROLLER ONLY!!!
 
-## YOU MUST FIRST INSTALL HOMEBREW AND MOLTENVK
+## You must first install Homebrew and MoltenVK
 ```bash
 brew install cmake ninja molten-vk
 ```
