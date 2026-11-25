@@ -25,7 +25,7 @@ brew install cmake ninja molten-vk vulkan-loader
 **Step 2.** Extract **`MW2 Bot Warfare Builder.app.zip`**, then double-click **`MW2 Bot Warfare Builder.app`**.
 
 (If macOS blocks MW2 Bot Warfare Builder.app:
-Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.app" in Terminal.)
+Right-click the app and choose Open, or in terminal, run xattr -cr and add a space, then drag in your MW2 Bot Warfare Builder.app into the terminal, then press enter.)
 
 **Step 3.** Choose your MW2 `.iso` file or unpacked disc folder.
 
