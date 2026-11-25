@@ -30,7 +30,7 @@ Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.a
 
 **Step 4.** Wait for Terminal to finish building, then double-click **`Modern Warfare 2.app`** on your Desktop and press **D-Pad Down** in a Private Match to open the Bot Warfare menu.
 
-** Loading a map**
+## Loading a map
 Loading a map for the first time can be quite laggy when adding bots, to fix this, just restart and it should be back to normal!
 
 ## CLI Build (Alternative)
