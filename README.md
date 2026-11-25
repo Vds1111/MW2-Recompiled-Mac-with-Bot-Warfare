@@ -43,6 +43,8 @@ For Bot Warfare: Press DPad down, pretty easy. To manage other change like chang
 ## Why?
 Because the Bots only did basic stuffs, like moving, ads, crouch. They lacked killstreaks or grenades or special grenades. For that, I had to add Bot Warfare to it (Thanks to Claude Ai). 
 
+## Status: Beta — Expect occasional bugs. Core multiplayer, Bot Warfare 2.4.0, and controller support are fully playable on Apple Silicon Macs, though occasional visual or stability quirks may still occur.
+
 ## Credits
 * **GSC Loader & TU6 Hooks:** Ported from `kyokokxdev/mw2nx` (`mw2mp_gsc.cpp`).
 * **Bot Warfare 2.4.0:** Created by the Bot Warfare team (see `mods/bot_warfare/CREDITS.md` and `LICENSE`).
