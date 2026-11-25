@@ -1,8 +1,9 @@
 # MW2 Mac Recomp — Bot Warfare 2.4.0 + Optional DLC Builder
 
-MULTIPLAYER ONLY!!!
+MULTIPLAYER AND CONTROLLER ONLY!!!
 
 Builds a standalone macOS `Modern Warfare 2.app` (Title Update 6 Multiplayer) with **Bot Warfare 2.4.0** and **optional Stimulus / Resurgence DLC map support** from your own legal Xbox 360 copy. **No copyrighted game files are included.**
+Added support for third party controllers like PowerA
 
 ## What You Need
 1. **Apple Silicon Mac (macOS 15+)** with Xcode Command Line Tools (`xcode-select --install`), `cmake`, `ninja`, and MoltenVK.
