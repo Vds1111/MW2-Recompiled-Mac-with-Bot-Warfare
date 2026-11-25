@@ -43,7 +43,7 @@ Loading a map for the first time can be quite laggy when adding bots, to fix thi
 ## Managing settings
 For Bot Warfare: Press DPad down, pretty easy. To manage other change like changing fps, anti-aliasing, etc, press RB+START. The Bot settings in the RB+START Menu will not work so don't be bothered to use it, use Bot Warfare instead ;)
 
-## Tip: Keep the FPS cap at 60 FPS (default) for maximum stability — 90/120 FPS can cause GPU ring-buffer crashes during heavy action.
+## Tip: Keep the FPS cap at 60 FPS (default) for maximum stability — 90/120 FPS can cause GPU ring-buffer crashes during heavy or long sessions.
 
 ## Why add Bot Warfare?
 The Bots in settings RB+START only do basic stuffs, like moving, ads, crouch. They could not do killstreaks or throw grenades or special grenades. On Domination and Headquarter, they would not grab the flags. So for that, I had to add Bot Warfare to it (Thanks to Claude Ai). 
