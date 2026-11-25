@@ -2,6 +2,8 @@
 
 MULTIPLAYER AND CONTROLLER ONLY!!!
 
+YOU MUST INSTALL HOMEBREW AND MOLTENVK: brew install cmake ninja molten-vk
+
 Builds a standalone macOS `Modern Warfare 2.app` (Title Update 6 Multiplayer) with **Bot Warfare 2.4.0** from your own legal Xbox 360 copy. **No copyrighted game files are included.**
 Added support for third party controllers like PowerA
 
