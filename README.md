@@ -6,16 +6,17 @@ Added support for third party controllers like PowerA. **THIS IS MULTIPLAYER AND
 ## YOUR SAVE NOW GOES INTO Document/MW2 Save so it doesn't get erased
 
 ## Status: Beta — Expect occasional bugs or crashes. Core multiplayer, Bot Warfare 2.4.0, and controller support are fully playable on Apple Silicon Macs, but occasional visual or stability quirks may still occur.
-
-## You must first install Homebrew and MoltenVK
-```bash
-brew install cmake ninja molten-vk vulkan-loader
-```
+## INSTALLATION
 
 ## What You Need
 1. **Apple Silicon Mac (macOS 15+)** with Xcode Command Line Tools (`xcode-select --install`), `cmake`, `ninja`, and MoltenVK.
 2. **Base Game:** Your Xbox 360 **Modern Warfare 2** `.iso` (or unpacked disc folder containing `default_mp.xex`).
 3. **Title Update 6:** Your Xbox 360 TU6 file (`TU_10LC20N_...`).
+
+## You must first install Homebrew and MoltenVK
+```bash
+brew install cmake ninja molten-vk vulkan-loader
+```
 
 ## Easy GUI Build (Recommended)
 
