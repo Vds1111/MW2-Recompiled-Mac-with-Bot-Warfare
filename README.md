@@ -1,12 +1,14 @@
 # MW2 Macbook Recomp — Bot Warfare 2.4.0
 
+Builds a standalone macOS `Modern Warfare 2.app` (Title Update 6 Multiplayer) with **Bot Warfare 2.4.0** from your own legal Xbox 360 copy. **No copyrighted game files are included.**
+Added support for third party controllers like PowerA
+
 MULTIPLAYER AND CONTROLLER ONLY!!!
+
 ## YOU MUST FIRST INSTALL HOMEBREW AND MOLTENVK
 ```bash
 brew install cmake ninja molten-vk
 ```
-Builds a standalone macOS `Modern Warfare 2.app` (Title Update 6 Multiplayer) with **Bot Warfare 2.4.0** from your own legal Xbox 360 copy. **No copyrighted game files are included.**
-Added support for third party controllers like PowerA
 
 ## What You Need
 1. **Apple Silicon Mac (macOS 15+)** with Xcode Command Line Tools (`xcode-select --install`), `cmake`, `ninja`, and MoltenVK.
