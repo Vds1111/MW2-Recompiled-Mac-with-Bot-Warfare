@@ -18,7 +18,7 @@ Right-click the app and choose Open, or run xattr -cr "MW2 Bot Warfare Builder.a
 
 ## Easy GUI Build (Recommended)
 
-**Step 0.** EXTRACT **`SRC.ZIP`** BEFORE RUNNING IT
+**Step 0.** EXTRACT **`SRC.ZIP`** BEFORE RUNNING IT.
 
 **Step 1.** Double-click **`MW2 Bot Warfare Builder.app`**.
 
