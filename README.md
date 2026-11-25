@@ -1,7 +1,7 @@
 # MW2 Mac Recomp — Bot Warfare 2.4.0
 
 MULTIPLAYER AND CONTROLLER ONLY!!!
-## YOU MUST INSTALL HOMEBREW AND MOLTENVK
+## YOU MUST FIRST INSTALL HOMEBREW AND MOLTENVK
 ```bash
 brew install cmake ninja molten-vk
 ```
