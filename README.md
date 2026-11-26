@@ -45,21 +45,37 @@ Controls (like PC MW2)
 
 ## Input	Action
 WASD	``move``
+
 Mouse	``look``
+
 Left click	``fire``
+
 Right click	``aim down sights, one click on and one click off``
+
 Space	``jump``
+
 C or Ctrl	``crouch (tap) or prone (hold)``
+
 Shift	``sprint``
+
 E or V	``knife``
+
 R or F	``reload and use``
+
 G / Q	``frag / flash``
+
 1 or 2	``switch weapon``
+
 Tab	``scoreboard``
+
 Esc or Return	``pause / start``
+
 Backspace	``back in menus``
+
 Arrow keys	``d-pad``
+
 F6	`` frees the mouse, press again to take it back``
+
 ## BUGS
 There is a bug that after you spawn bots and you exit bot warfare, you won't move around using wasd cause it still thinks its on bot warfare. To fix this, go back to bot warfare, press space, then down arrow two times to exit bot warfare and your there. I will try to fix this today.
 
