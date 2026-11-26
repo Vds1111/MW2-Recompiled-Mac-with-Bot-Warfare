@@ -74,6 +74,8 @@ Backspace	``back in menus``
 
 Arrow keys	``d-pad``
 
+G+START ``Goes into the settings. (not bot warfare, press return to exit.)
+
 F6	`` frees the mouse, press again to take it back``
 
 F7 ``Use this if your WASD still thinks bot warfare menu is open, it will fix this. That now happens rarely but just in case!``
