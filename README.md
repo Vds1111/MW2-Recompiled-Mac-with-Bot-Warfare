@@ -76,8 +76,7 @@ Arrow keys	``d-pad``
 
 F6	`` frees the mouse, press again to take it back``
 
-## BUGS
-There is a bug that after you spawn bots and you exit bot warfare, you won't move around using wasd cause it still thinks its on bot warfare. To fix this, go back to bot warfare, press space, then press down arrow two times to exit bot warfare and your there. I will try to fix this today.
+F7 ``Use this if your WASD still thinks bot warfare menu is open, it will fix this. That now happens rarely but just in case!``
 
 ## Tip: Keep the FPS cap at 60 FPS (default) for maximum stability — 90/120 FPS can cause GPU ring-buffer crashes during heavy or long sessions.
 
