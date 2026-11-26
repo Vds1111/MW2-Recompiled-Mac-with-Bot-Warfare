@@ -74,7 +74,7 @@ Backspace	``back in menus``
 
 Arrow keys	``d-pad``
 
-G+ESC ``Goes into the settings. (not bot warfare, press return to exit.)
+G+ESC ``Goes into the settings. (not bot warfare, press return to exit.)``
 
 F6	`` frees the mouse, press again to take it back``
 
