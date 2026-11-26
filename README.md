@@ -1,7 +1,7 @@
 # MW2 Macbook Recomp With Bot Warfare 2.4.0
 
 Builds a standalone macOS `Modern Warfare 2.app` (Title Update 6 Multiplayer) with **Bot Warfare 2.4.0** from your own legal Xbox 360 copy. **No copyrighted game files are included.**
-Added support for third party controllers like PowerA. **CURRENTLY ADDIND KEYBOARD NAD MOUSE SUPPORT!**
+Added support for third party controllers like PowerA. **CONTROLLER AND KEYBOARD/MOUSE SUPPORT**
 
 ## Status: Beta — Expect occasional bugs or crashes. Core multiplayer, Bot Warfare 2.4.0, and controller support are fully playable on Apple Silicon Macs, but occasional visual or stability quirks may still occur.
 ## INSTALLATION
@@ -41,6 +41,27 @@ Loading a map for the first time can be quite laggy when adding bots, to fix thi
 
 ## Managing settings
 For Bot Warfare: Press DPad down, pretty easy. To manage other change like changing fps, anti-aliasing, etc, press RB+START. The Bot settings in the RB+START Menu will not work so don't be bothered to use it, use Bot Warfare instead ;)
+Controls (like PC MW2)
+
+## Input	Action
+WASD	``move``
+Mouse	``look``
+Left click	``fire``
+Right click	``aim down sights, one click on and one click off``
+Space	``jump``
+C or Ctrl	``crouch (tap) or prone (hold)``
+Shift	``sprint``
+E or V	``knife``
+R or F	``reload and use``
+G / Q	``frag / flash``
+1 or 2	``switch weapon``
+Tab	``scoreboard``
+Esc or Return	``pause / start``
+Backspace	``back in menus``
+Arrow keys	``d-pad``
+F6	`` frees the mouse, press again to take it back``
+## BUGS
+There is a bug that after you spawn bots and you exit bot warfare, you won't move around using wasd cause it still thinks its on bot warfare. To fix this, go back to bot warfare, press space, then down arrow two times to exit bot warfare and your there. I will try to fix this today.
 
 ## Tip: Keep the FPS cap at 60 FPS (default) for maximum stability — 90/120 FPS can cause GPU ring-buffer crashes during heavy or long sessions.
 
